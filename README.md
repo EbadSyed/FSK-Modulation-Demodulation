@@ -4,9 +4,9 @@ Frequency Shift Keying Moduation and Demodulation implementation in MATLAB
 ## Random Signal Generation and Modulation
 Random binary signal generation has been done by using MATLAB's function ;
 
-'''
+```
 x = randi([0 1],Noit,1);
-'''
+```
 Noit represents legnth of Signal
 
 ### Modulated Signal Plot
@@ -26,9 +26,9 @@ awgn
 ## Bit Error Rate
 Theoritical Bit Error rate data has been generated using MATLAB's function;
 
-'''
+```
 berawgn(snrdB,'fsk',2,'noncoherent')
-''' 
+``` 
 
 ### BER Theory Plot
 ![BER](plots/ber.png)

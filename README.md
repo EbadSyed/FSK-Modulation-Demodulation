@@ -1,5 +1,5 @@
 # FSK-Modulation-Demodulation
-Frequency Shift Keying Moduation and Demodulation implementation in MATLAB
+Frequency Shift Keying Moduation and Demodulation implementation in MATLAB for Digital Communications Course at New York Institute of Technology
 
 ## Random Signal Generation and Modulation
 Random binary signal generation has been done by using MATLAB's function ;
